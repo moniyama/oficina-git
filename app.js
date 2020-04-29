@@ -3,5 +3,4 @@ const palomita = "maravilhosaaaaa"
 const moniii = () => "amorrrzaooo"
 console.log("suahushauhsa")
 
-
 jijaisjajisa
